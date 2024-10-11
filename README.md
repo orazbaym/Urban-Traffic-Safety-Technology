@@ -1,4 +1,4 @@
-![a760c0f4-e845-4c85-b772-716e439ed503](https://github.com/user-attachments/assets/af8f6504-3a2b-45de-84f7-8d028b014005)# Urban Traffic Safety Technology
+# Urban Traffic Safety Technology
 
 ## Overview
 This project analyzes accident data in the United States to predict accident severity based on weather and environmental features. It utilizes machine learning models such as Linear Regression, Random Forest Regressor, Logistic Regression, and Random Forest Classifier to explore regression and classification tasks.
